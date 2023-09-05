@@ -16,3 +16,9 @@ a{
     text-decoration: none;
     color: black;
 }
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
